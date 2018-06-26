@@ -18,7 +18,8 @@ This is basically an extension of webpart at https://github.com/SharePoint/sp-de
 This webpart uses two custom SharePoint list whose title can be provided in webpart properties. The asset list is the master list where details of asset (in this particular case cars, but could be anything) are stored along with its colour in HEX format (to display in full calendar) and an image of the asset. Then there is a booking list which actually saves the booking details of that particular asset and it uses OOB columns - StartDate and EndDate. There is a lookup to the asset list. The column names used in REST calls are hardcoded so you will have to change them accordingly.
 
 ```
-The reason for this structure is, I wanted to demonstrate that you can query data from another list (REST calls) on event click of calendar. This webpart fetches the image related to the asset from master list, rest all data is from the same list.
+The reason for this structure is, I wanted to demonstrate that you can query data from another list (REST calls) on event click of calendar. 
+This webpart fetches the image related to the asset from master list, rest all data is from the same list.
 ```
 
 Master List Columns:
