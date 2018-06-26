@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-react-fullcalendar-client-side-solution",
+    "id": "f5594511-19d7-4906-a6a4-da6d09adebac",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-react-fullcalendar.sppkg"
+  }
+}

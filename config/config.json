@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "spfx-react-fullcalendar-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spfxReactFullcalendar/SpfxReactFullcalendarWebPart.js",
+          "manifest": "./src/webparts/spfxReactFullcalendar/SpfxReactFullcalendarWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpfxReactFullcalendarWebPartStrings": "lib/webparts/spfxReactFullcalendar/loc/{locale}.js"
+  }
+}
