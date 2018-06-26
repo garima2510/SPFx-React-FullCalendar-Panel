@@ -11,7 +11,7 @@ On click of an event, it shows event details
 This is basically an extension of webpart at https://github.com/SharePoint/sp-dev-fx-webparts/tree/master/tutorials/tutorial-migrate-fullcalendar and is created using this as base.
 
 ### Used SharePoint Framework Version
-![image](https://img.shields.io/badge/SPFx-1.4.0-green.svg)
+![SPFx v1.4.0](https://img.shields.io/badge/SPFx-1.4.0-green.svg)
 
 ### Build and run the tutorials
 
