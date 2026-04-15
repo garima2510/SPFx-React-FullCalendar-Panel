@@ -1,3 +1,5 @@
+# ARCHIVED REPOSITORY. PLEASE DO NOT USE
+
 ## spfx-react-fullcalendar
 
 Solution to demonstrate fullcalendar in a SPFx react webpart. On click of event, it also opens up the Office UI Fabric React Panel (https://developer.microsoft.com/en-us/fabric#/components/panel).
